@@ -41,6 +41,10 @@ Link tải hack Free Fire OB46: [DOWNLOAD](https://phanmemnet.com/tai-hack-free-
 - Tải xuống apk và OBB của trò chơi ở trên
 - Giải nén OBB, sao chép thư mục OBB vào đường dẫn “Android / obb”. Đường dẫn OBB chính xác sẽ giống như “Android / obb / com.madfingergames.leosystem”
 - Cài đặt tệp APK và chạy
+  
+![image](https://github.com/user-attachments/assets/bb3147f5-6257-4eca-a70c-302801ba1d01)
+
+  
 
 
 
