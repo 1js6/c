@@ -36,7 +36,7 @@ Một trong số những điều làm lên sự thành công của Garena Free F
 - Đạn thẳng, vừa đi vừa ăn máu,…
 ## Link tải Hack FF OB46 (Menu Tiếng Việt, Auto Headshot, Đạn Thẳng, Định Vị) cho Android
 
-Link tải hack Free Fire OB46: [DOWNLOAD](https://phanmemnet.com/tai-hack-free-fire-ob46-menu-auto-headshot-v1-106-1-apk/) | Link tải OBB: [DOWNLOAD](https://phanmemnet.com/tai-hack-free-fire-ob46-menu-auto-headshot-v1-106-1-apk/)
+Link tải hack Free Fire OB46: [DOWNLOAD](https://phanmemnet.com/hack-free-fire-ob46/) | Link tải OBB: [DOWNLOAD](https://phanmemnet.com/hack-free-fire-ob46/)
 ## Hướng dẫn
 - Tải xuống apk và OBB của trò chơi ở trên
 - Giải nén OBB, sao chép thư mục OBB vào đường dẫn “Android / obb”. Đường dẫn OBB chính xác sẽ giống như “Android / obb / com.madfingergames.leosystem”
